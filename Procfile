@@ -1,0 +1,1 @@
+web: gunicorn instaMini.wsgi --log-file -
